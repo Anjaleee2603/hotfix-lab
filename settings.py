@@ -1,0 +1,1 @@
+print("THis is sepm practical test")
